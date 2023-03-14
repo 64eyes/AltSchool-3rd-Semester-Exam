@@ -1,4 +1,8 @@
-# my-exam
+# Oloruntobi Madamori
+
+## AltSchool of Engineering 3rd Semester Exam
+
+## Exam link: https://vuex-counter-app.netlify.app/
 
 ## Project setup
 ```
